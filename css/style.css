@@ -1,0 +1,154 @@
+body {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #828282;
+  background: #fff;
+}
+#fullPage {
+  position: relative;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.fish-nav {
+  padding: 18px 0;
+  background: #fff;
+}
+@media screen and (max-width: 768px) {
+  .fish-nav {
+    padding: 20px 0;
+  }
+}
+.fish-nav #fish-logo {
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Montserrat", Arial, sans-serif;
+}
+.fish-nav a {
+  padding: 5px 10px;
+  color: #000;
+  text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+  .fish-nav .menu-1,
+  .fish-nav .menu-2 {
+    display: none;
+  }
+}
+.fish-nav .menu-2 li.search {
+  float: left;
+  width: 83%;
+  font-family: "Playfair Display", serif;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  padding: 0;
+  margin: -5px 0 0 0;
+}
+.fish-nav .menu-2 li input[type="text"] {
+  padding: 6px 10px;
+  width: 40%;
+  border: none;
+  float: right;
+  font-size: 13px;
+  margin-top: 4px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+.fish-nav .menu-2 li input[type="text"]:focus {
+  width: 100%;
+  outline: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.fish-nav .menu-2 li button {
+  margin-top: 4px;
+  padding: 5px;
+  background: transparent;
+  border: none;
+}
+.fish-nav .menu-2 li button i {
+  color: rgba(0, 0, 0, 0.5);
+}
+.fish-nav .menu-2 li button:hover,
+.fish-nav .menu-2 li button:focus {
+  background: transparent !important;
+}
+.fish-nav .menu-2 li button:hover i,
+.fish-nav .menu-2 li button:focus i {
+  color: black;
+}
+.fish-nav .menu-2 li.shopping-cart {
+  float: right;
+}
+.fish-nav .menu-2 li a.cart {
+  color: black;
+}
+.fish-nav .menu-2 li a.cart span {
+  position: relative;
+}
+.fish-nav .menu-2 li a.cart span small {
+  position: absolute;
+  top: -20px;
+  right: -15px;
+  padding: 10px 6px;
+  line-height: 0;
+  font-size: 11px;
+  background: #0583d2;
+  color: white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
+.fish-nav ul {
+  padding: 0;
+  margin: 0;
+}
+.fish-nav ul li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: inline-block;
+  font-family: "Montserrat", Arial, sans-serif;
+}
+.fish-nav ul li a {
+  font-size: 13px;
+  padding: 30px 10px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.5);
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+.fish-nav ul li a:hover,
+.fish-nav ul li a:focus,
+.fish-nav ul li a:active {
+  color: black;
+}
+.fish-nav ul li a.cart {
+  color: black;
+}
+.fish-nav ul li a.cart span {
+  position: relative;
+}
+.fish-nav ul li a.cart span small {
+  position: absolute;
+  top: -20px;
+  right: -15px;
+  padding: 10px 6px;
+  line-height: 0;
+  font-size: 11px;
+  background: #0583d2;
+  color: white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
