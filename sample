@@ -1,0 +1,43 @@
+card
+
+      <!-- <div class="row">
+        <div class=" col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="assets/images/product-01.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+              <h5 class="card-title"><strong>Product-01</strong></h5>
+              <h6 class="card-title"> $100</h6>
+              <div class="button">
+                <a href="#" class="btn btn-dark">Add to cart</a>
+              </div>
+            </div>
+            <hr>
+          </div>
+        </div>
+        <div class=" col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="assets/images/product-01.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+              <h5 class="card-title"><strong>Product-01</strong></h5>
+              <h6 class="card-title"> $100</h6>
+              <div class="button">
+                <a href="#" class="btn btn-dark">Add to cart</a>
+              </div>
+            </div>
+            <hr>
+          </div>
+        </div>
+        <div class=" col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="assets/images/product-01.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+              <h5 class="card-title"><strong>Product-01</strong></h5>
+              <h6 class="card-title"> $100</h6>
+              <div class="button">
+                <a href="#" class="btn btn-dark">Add to cart</a>
+              </div>
+            </div>
+          </div>
+          <hr>
+        </div>
+      </div> -->
