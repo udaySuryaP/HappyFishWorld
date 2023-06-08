@@ -190,6 +190,11 @@ h6 {
   border-radius: 50%;
 }
 
+.shopping-cart .btn {
+  background-color: #000;
+  color: #fff;
+}
+
 #hero {
   background: #fff;
   max-height: 800px;
