@@ -3,4 +3,4 @@ HappyFishWorld is an eCommerce website designed to cater to fish enthusiasts, of
 
 Index Page
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-!Index Page Screenshort(screenshots/index-page.jpeg)
+![Alt Text](screenshots/index-page.jpeg)
