@@ -3,4 +3,4 @@ HappyFishWorld is an eCommerce website designed to cater to fish enthusiasts, of
 
 Index Page
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Alt Text](https://github.com/udaySuryaP/HappyFishWorld/blob/49a357bff199c6d799cee6969d0afb825881e33f/screenshots/index-page.jpeg)
+![index-page](https://github.com/udaySuryaP/HappyFishWorld/assets/133751051/ddeed1f6-6852-4c8c-83e3-a5a40387eaeb)
